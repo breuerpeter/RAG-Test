@@ -19,3 +19,8 @@ Note: if you are getting an error stating that the port is already busy, run: `e
 ```
 python3 query_data.py "What is the goal of the paper?"
 ```
+
+### Unit testing
+```
+pytest
+```
